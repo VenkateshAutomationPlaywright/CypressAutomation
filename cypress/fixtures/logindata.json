@@ -1,0 +1,11 @@
+{
+    "validdata": {
+      "username": "admin",
+      "password": "admin123"
+    },
+    "invaliddata": {
+      "username": "venkat",
+      "password": "venkat@123"
+    }
+    
+  }
